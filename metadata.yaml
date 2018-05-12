@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9294'
     url: http://www.gutenberg.org/2009/agents/9294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20458#The-Triflers
 gutenberg_issued: '2007-01-27'
 gutenberg_type: Text
 identifiers:
